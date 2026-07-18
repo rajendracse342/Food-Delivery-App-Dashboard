@@ -69,3 +69,17 @@ Images/
 - Customer and restaurant insights
 - Delivery performance tracking
 - Dynamic DAX measures
+
+## Key Insights
+
+- Revenue distribution varies significantly across cities.
+- Repeat customers contribute a substantial portion of total orders.
+- Delivery performance directly impacts customer experience.
+- Restaurant ratings influence customer engagement.
+- Interactive filtering enables city-wise and restaurant-wise analysis.
+
+## Author
+
+Rajendra
+
+GitHub: https://github.com/rajendracse342
