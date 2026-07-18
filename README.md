@@ -33,12 +33,27 @@ DAX/
     https://github.com/rajendracse342/Food-Delivery-App-Dashboard/blob/main/DAX/CALCULATED%20COLUMNS%20AND%20MEASURES.txt
 
 Images/
-    Executive-Overview.png
-    Customer-Analysis.png
-    Restaurant-Performance.png
-    Delivery-Operations.png
-    Advanced-Insights.png
-    Restaurant-Details.png
+    ## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](<Images/Executive Overview.png>)
+
+### Customer Analysis
+
+![Customer Analysis](<Images/Customer Analysis.png>)
+
+### Restaurant Performance
+
+![Restaurant Performance](<Images/Restaurant Performance.png>)
+
+### Delivery & Operations
+
+![Delivery & Operations](<Images/Delivery & Operations.png>)
+
+### Restaurant Drill Through
+
+![Restaurant Drill Through](<Images/Restro Drill through.png>)
 
 
 ## Key Features
