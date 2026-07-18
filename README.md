@@ -30,7 +30,7 @@ Dataset/
     dataset.xlsx
 
 DAX/
-    Calculated Columns and Measures.txt
+    DAX/CALCULATED COLUMNS AND MEASURES.txt
 
 Images/
     Executive-Overview.png
