@@ -1,46 +1,36 @@
-# 🍔 Food Delivery App Dashboard
+# Food Delivery App Dashboard
 
-An interactive Power BI dashboard built to analyze food delivery operations, customer behavior, restaurant performance, and delivery efficiency using Power BI, Power Query, DAX, and Excel.
+## Overview
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
-![DAX](https://img.shields.io/badge/DAX-Measures-blue)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
-![Excel](https://img.shields.io/badge/Excel-Dataset-success)
+This project is an interactive Power BI dashboard built to analyze food delivery operations. It focuses on revenue, customer behavior, restaurant performance, and delivery metrics using Power Query, DAX, and data modeling.
 
----
-
-## 📌 Project Overview
-
-This project presents an end-to-end Business Intelligence solution for a food delivery platform.
-
-The dashboard provides insights into:
-
-- Revenue performance
-- Customer behavior
-- Restaurant performance
-- Delivery operations
-- Advanced business insights
-
-The report was developed using Power Query for data transformation, DAX for calculations, and Power BI for visualization.
-
----
-
-## 🛠️ Tech Stack
+## Tools Used
 
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
-- Data Modeling
-- Data Visualization
 
----
+## Dashboard Pages
 
-## 🔄 Project Workflow
+- Executive Overview
+- Customer Analysis
+- Restaurant Performance
+- Delivery & Operations
+- Restaurant Details
 
-1. Import Dataset
-2. Data Cleaning using Power Query
-3. Data Modeling
-4. DAX Measures
-5. Dashboard Design
-6. Business Insights
+## Project Files
+
+- Dashboard (.pbix)
+- Dataset (.xlsx)
+- DAX Measures
+- Dashboard Screenshots
+
+## Key Features
+
+- Interactive slicers and filters
+- KPI cards
+- Time-based analysis
+- Customer and restaurant insights
+- Delivery performance tracking
+- Dynamic DAX measures
