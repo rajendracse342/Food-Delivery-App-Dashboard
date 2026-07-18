@@ -30,7 +30,7 @@ Dataset/
     dataset.xlsx
 
 DAX/
-    DAX/CALCULATED COLUMNS AND MEASURES.txt
+    https://github.com/rajendracse342/Food-Delivery-App-Dashboard/blob/main/DAX/CALCULATED%20COLUMNS%20AND%20MEASURES.txt
 
 Images/
     Executive-Overview.png
