@@ -21,10 +21,25 @@ This project is an interactive Power BI dashboard built to analyze food delivery
 
 ## Project Files
 
-- Dashboard (.pbix)
-- Dataset (.xlsx)
-- DAX Measures
-- Dashboard Screenshots
+## Repository Structure
+
+Dashboard/
+    Food App Dashboard Project.pbix
+
+Dataset/
+    dataset.xlsx
+
+DAX/
+    Calculated Columns and Measures.txt
+
+Images/
+    Executive-Overview.png
+    Customer-Analysis.png
+    Restaurant-Performance.png
+    Delivery-Operations.png
+    Advanced-Insights.png
+    Restaurant-Details.png
+
 
 ## Key Features
 
